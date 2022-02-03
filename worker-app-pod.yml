@@ -5,7 +5,7 @@ metadata:
   name: worker-app-pod
   labels:
     name: worker-app-pod
-    author: ova
+    author: oval
 spec:
   containers:
     - name: worker-app
